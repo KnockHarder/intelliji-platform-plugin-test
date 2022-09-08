@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.knockharder.intellijiplatformplugintest.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.knockharder.intellijiplatformplugintest.MyBundle
 
 class MyApplicationService {
 
